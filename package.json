@@ -1,5 +1,5 @@
 {
-  "name": "conventional-commit-types",
+  "name": "leju-conventional-commit-types",
   "version": "2.2.0",
   "description": "List of conventional commit types.",
   "main": "index.json",
