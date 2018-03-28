@@ -1,46 +1,46 @@
 {
   "types": {
-    "【特性】": {
+    "[特性]": {
       "description": "01.增加一个新特性",
       "title": "Features"
     },
-    "【修复】": {
+    "[修复]": {
       "description": "02.修复了一个 Bug",
       "title": "Bug Fixes"
     },
-    "【文档】": {
+    "[文档]": {
       "description": "03.对文档内容进行了修改",
       "title": "Documentation"
     },
-    "【风格】": {
+    "[风格]": {
       "description": "04.优化代码风格，对逻辑不产生影响",
       "title": "Styles"
     },
-    "【重构】": {
+    "[重构]": {
       "description": "05.重构代码，对功能不产生影响",
       "title": "Code Refactoring"
     },
-    "【改良】": {
+    "[改良]": {
       "description": "06.提升代码运行效率",
       "title": "Performance Improvements"
     },
-    "【测试】": {
+    "[测试]": {
       "description": "07.添加或修改了测试代码",
       "title": "Tests"
     },
-    "【编译】": {
+    "[编译]": {
       "description": "08.对编译系统或者依赖库进行了修改",
       "title": "Builds"
     },
-    "【集成】": {
+    "[集成]": {
       "description": "09.修改了持续集成(CI)配置文件和脚本",
       "title": "Continuous Integrations"
     },
-    "【其他】": {
+    "[其他]": {
       "description": "10.其他对源码和测试不产生影响的改动",
       "title": "Chores"
     },
-    "【回滚】": {
+    "[回滚]": {
       "description": "11.回退到前面某一个版本",
       "title": "Reverts"
     }
