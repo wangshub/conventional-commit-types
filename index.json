@@ -1,24 +1,24 @@
 {
   "types": {
     "Feat": {
-      "description": "01.增加一个新特性",
+      "description": "1.增加一个新特性",
       "title": "Features"
     },
     "Fix": {
-      "description": "02.修复了一个 Bug",
+      "description": "2.修复了一个 Bug",
       "title": "Bug Fixes"
     },
+    "Refactor": {
+      "description": "3.重构代码，对功能不产生影响",
+      "title": "Code Refactoring"
+    },
     "Doc": {
-      "description": "03.对文档内容进行了修改",
+      "description": "4.对文档内容进行了修改",
       "title": "Documentation"
     },
     "Style": {
-      "description": "04.优化代码风格，对逻辑不产生影响",
+      "description": "5.优化代码风格，对逻辑不产生影响",
       "title": "Styles"
-    },
-    "Refactor": {
-      "description": "05.重构代码，对功能不产生影响",
-      "title": "Code Refactoring"
     }
   }
 }
